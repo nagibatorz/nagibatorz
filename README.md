@@ -121,9 +121,9 @@ I'm a junior at the **University of Washington's Paul G. Allen School of Compute
 
 | Language | Proficiency |
 |----------|-------------|
-| 🇺🇸 English | Native / Bilingual |
-| 🇺🇦 Ukrainian | Native / Bilingual |
-| 🇷🇺 Russian | Native / Bilingual |
+| 🇺🇸 English | Native / Trilingual |
+| 🇺🇦 Ukrainian | Native / Trilingual |
+| 🇷🇺 Russian | Native / Trilingual |
 | 🇵🇱 Polish | Limited Working |
 
 ---
