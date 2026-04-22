@@ -2,7 +2,8 @@
 
 # Hi, I'm Zhorzh Zelenkov 👋
 
-### Full-Stack Developer · CS @ UW · Neuroscience Tools & Privacy Research
+### Software Developer · CS @ UW · Neuroscience Tools & Privacy Research
+### Building tools for complex science and everyday life
 
 [![Portfolio](https://img.shields.io/badge/Portfolio-000000?style=for-the-badge&logo=vercel&logoColor=white)](https://zhorzhzelenkov.netlify.app)
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/zhorzh-zelenkov)
