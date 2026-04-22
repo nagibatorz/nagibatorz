@@ -35,6 +35,10 @@ I'm a sophomore at the **University of Washington's Paul G. Allen School of Comp
 ![C++](https://img.shields.io/badge/C++-00599C?style=flat-square&logo=c%2B%2B&logoColor=white)
 ![C#](https://img.shields.io/badge/C%23-239120?style=flat-square&logo=c-sharp&logoColor=white)
 ![Go](https://img.shields.io/badge/Go-00ADD8?style=flat-square&logo=go&logoColor=white)
+![OCaml](https://img.shields.io/badge/OCaml-EC6813?style=flat-square&logo=ocaml&logoColor=white)
+![Ruby](https://img.shields.io/badge/Ruby-CC342D?style=flat-square&logo=ruby&logoColor=white)
+![Scheme](https://img.shields.io/badge/Scheme-9F1D20?style=flat-square&logo=scheme&logoColor=white)
+![Dart](https://img.shields.io/badge/Dart-0175C2?style=flat-square&logo=dart&logoColor=white)
 
 **Frontend**
 ![React](https://img.shields.io/badge/React-61DAFB?style=flat-square&logo=react&logoColor=black)
@@ -42,6 +46,13 @@ I'm a sophomore at the **University of Washington's Paul G. Allen School of Comp
 ![Jetpack Compose](https://img.shields.io/badge/Jetpack_Compose-4285F4?style=flat-square&logo=jetpackcompose&logoColor=white)
 ![Tailwind](https://img.shields.io/badge/Tailwind-06B6D4?style=flat-square&logo=tailwindcss&logoColor=white)
 ![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=flat-square&logo=html5&logoColor=white)
+
+**Mobile Development**
+![Android Studio](https://img.shields.io/badge/Android_Studio-3DDC84?style=flat-square&logo=androidstudio&logoColor=white)
+![Jetpack Compose](https://img.shields.io/badge/Jetpack_Compose-4285F4?style=flat-square&logo=jetpackcompose&logoColor=white)
+![Flutter](https://img.shields.io/badge/Flutter-02569B?style=flat-square&logo=flutter&logoColor=white)
+![Gradle](https://img.shields.io/badge/Gradle-02303A?style=flat-square&logo=gradle&logoColor=white)
+![Firebase](https://img.shields.io/badge/Firebase-DD2C00?style=flat-square&logo=firebase&logoColor=white)
 
 **Backend**
 ![Spring Boot](https://img.shields.io/badge/Spring_Boot-6DB33F?style=flat-square&logo=springboot&logoColor=white)
@@ -59,17 +70,7 @@ I'm a sophomore at the **University of Washington's Paul G. Allen School of Comp
 ![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=flat-square&logo=mysql&logoColor=white)
 ![PostgreSQL](https://img.shields.io/badge/PostgreSQL-4169E1?style=flat-square&logo=postgresql&logoColor=white)
 ![MongoDB](https://img.shields.io/badge/MongoDB-47A248?style=flat-square&logo=mongodb&logoColor=white)
-
----
-
-### 🏗️ Featured Projects
-
-| Project | Description | Stack |
-|---------|-------------|-------|
-| 🏆 **[Optivise.dev](https://optivise.dev)** | 1st Place Hackathon — AI-driven A/B testing platform with real-time analytics | React · AWS Lambda · TensorFlow |
-| 🤖 **[VisualML](https://github.com/nagibatorez)** | ML visualization tool — 96% accuracy, 40% fewer false positives | Java · Spring Boot · React · Python |
-| 💬 **[Grono](https://github.com/nagibatorez)** | Reddit-style social platform with GPT moderation & Wilson-score ranking | Next.js · TypeScript · Sanity · OpenAI |
-| 📱 **[SENS](https://github.com/nagibatorez)** | Android digital wellness app — 200+ beta users, 3+ hrs saved daily | Kotlin · Jetpack Compose |
+![SQLite](https://img.shields.io/badge/SQLite-003B57?style=flat-square&logo=sqlite&logoColor=white)
 
 ---
 
@@ -90,6 +91,17 @@ I'm a sophomore at the **University of Washington's Paul G. Allen School of Comp
 ![Stats](https://github-readme-stats.vercel.app/api?username=nagibatorz&show_icons=true&theme=tokyonight&hide_border=true&count_private=true)
 
 </div>
+
+---
+
+### 🏗️ Featured Projects
+
+| Project | Description | Stack |
+|---------|-------------|-------|
+| 🏆 **[Optivise.dev](https://optivise.dev)** | 1st Place Hackathon — AI-driven A/B testing platform with real-time analytics | React · AWS Lambda · TensorFlow |
+| 🤖 **[VisualML](https://github.com/nagibatorez)** | ML visualization tool — 96% accuracy, 40% fewer false positives | Java · Spring Boot · React · Python |
+| 💬 **[Grono](https://github.com/nagibatorez)** | Reddit-style social platform with GPT moderation & Wilson-score ranking | Next.js · TypeScript · Sanity · OpenAI |
+| 📱 **[SENS](https://github.com/nagibatorez)** | Android digital wellness app — 200+ beta users, 3+ hrs saved daily | Kotlin · Jetpack Compose |
 
 ---
 
