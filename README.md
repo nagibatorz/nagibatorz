@@ -86,8 +86,8 @@ I'm a sophomore at the **University of Washington's Paul G. Allen School of Comp
 
 <div align="center">
 
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=nagibatorez&layout=compact&theme=tokyonight&hide_border=true&langs_count=8)
-![Stats](https://github-readme-stats.vercel.app/api?username=nagibatorez&show_icons=true&theme=tokyonight&hide_border=true&count_private=true)
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=nagibatorz&layout=compact&theme=tokyonight&hide_border=true&langs_count=8)
+![Stats](https://github-readme-stats.vercel.app/api?username=nagibatorz&show_icons=true&theme=tokyonight&hide_border=true&count_private=true)
 
 </div>
 
