@@ -15,11 +15,10 @@
 
 ### 🚀 About Me
 
-I'm a sophomore at the **University of Washington's Paul G. Allen School of Computer Science** (GPA: 3.8), building tools for neuroscience research and exploring the intersection of privacy and security.
+I'm a junior at the **University of Washington's Paul G. Allen School of Computer Science** (GPA: 3.8), building tools for neuroscience research and exploring the intersection of privacy and security.
 
 - 🧠 **SDE** at Steinmetz Lab — developing **Pinpoint** (probe-insertion planning for electrophysiology) and **Ephys Link**
 - 🔐 **Research Assistant** at the Privacy & Security Lab — cookie consent compliance research
-- 🏆 **1st Place Hackathon Winner** — built [Optivise.dev](https://optivise.dev)
 - 🏊 **VP of UW Swim Club** · Master of Sports (Ukraine, 100m Butterfly)
 - 🌍 Trilingual: English · Ukrainian · Russian (+ learning Polish)
 
@@ -99,9 +98,9 @@ I'm a sophomore at the **University of Washington's Paul G. Allen School of Comp
 | Project | Description | Stack |
 |---------|-------------|-------|
 | 🏆 **[Optivise.dev](https://optivise.dev)** | 1st Place Hackathon — AI-driven A/B testing platform with real-time analytics | React · AWS Lambda · TensorFlow |
-| 🤖 **[VisualML](https://github.com/nagibatorez)** | ML visualization tool — 96% accuracy, 40% fewer false positives | Java · Spring Boot · React · Python |
-| 💬 **[Grono](https://github.com/nagibatorez)** | Reddit-style social platform with GPT moderation & Wilson-score ranking | Next.js · TypeScript · Sanity · OpenAI |
-| 📱 **[SENS](https://github.com/nagibatorez)** | Android digital wellness app — 200+ beta users, 3+ hrs saved daily | Kotlin · Jetpack Compose |
+| 🤖 **[VisualML](https://github.com/nagibatorz)** | ML visualization tool — 96% accuracy, 40% fewer false positives | Java · Spring Boot · React · Python |
+| 💬 **[Grono](https://github.com/nagibatorz)** | Reddit-style social platform with GPT moderation & Wilson-score ranking | Next.js · TypeScript · Sanity · OpenAI |
+| 📱 **[SENS](https://github.com/nagibatorz)** | Android digital wellness app — 200+ beta users, 3+ hrs saved daily | Kotlin · Jetpack Compose |
 
 ---
 
