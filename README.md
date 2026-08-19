@@ -18,6 +18,7 @@
 
 I'm a junior at the **University of Washington's Paul G. Allen School of Computer Science** (GPA: 3.8), building tools for neuroscience research and exploring the intersection of privacy and security.
 
+- 🏎 **AI & Data** at Brooks Running — developing applications for biomechanical data collection and creating automated data ingestion pipelines.
 - 🧠 **SDE** at Steinmetz Lab — developing **Pinpoint** (probe-insertion planning for electrophysiology) and **Ephys Link**
 - 🔐 **Research Assistant** at the Privacy & Security Lab — cookie consent compliance research
 - 🏊 **VP of UW Swim Club** · Master of Sports (Ukraine, 100m Butterfly)
