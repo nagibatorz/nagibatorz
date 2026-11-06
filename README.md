@@ -84,7 +84,7 @@ Currently: Software Engineering Intern at a Stealth Startup and AI Engineer at B
 
 ### Languages
 
-English · Ukrainian · Russian (native) · Polish (learning)
+English · Ukrainian · Russian· Polish (learning)
 
 ---
 
