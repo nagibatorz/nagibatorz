@@ -47,8 +47,6 @@ Currently: Software Engineering Intern at a Stealth Startup and AI Engineer at B
 
 ### Open Source Contributions
 
-**Nov 2026 — open PRs**
-
 - **[UKGovernmentBEIS/inspect_ai — PR #6364](https://github.com/UKGovernmentBEIS/inspect_ai/pull/6364)** (Python) — Together batch API failed on together SDK 3.x: the SDK builds paths already including `/v1`, so the base URL produced `.../v1/v1/files`. Stripped one trailing `/v1` on 3.x only, in both batch clients. Status: open.
 - **[authorjapps/zerocode — PR #813](https://github.com/authorjapps/zerocode/pull/813)** (Java) — Added a `DelayExecutor` with a `DELAY` method for configurable millisecond waits, usable as `util://DelayExecutor`. Status: open.
 - **[oxynote/oxynote — PR #329](https://github.com/oxynote/oxynote/pull/329)** (TypeScript/Vue) — Colours logfmt keys in plain log lines; search matches are found on the whole line first, then cut at colour boundaries, so `user=ada` highlights across key/`=`/value. Status: open.
