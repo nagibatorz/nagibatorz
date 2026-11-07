@@ -51,6 +51,8 @@ Currently: Software Engineering Intern at a Stealth Startup and AI Engineer at B
 - **[authorjapps/zerocode — PR #813](https://github.com/authorjapps/zerocode/pull/813)** (Java) — Added a `DelayExecutor` with a `DELAY` method for configurable millisecond waits, usable as `util://DelayExecutor`. Status: open.
 - **[oxynote/oxynote — PR #329](https://github.com/oxynote/oxynote/pull/329)** (TypeScript/Vue) — Colours logfmt keys in plain log lines; search matches are found on the whole line first, then cut at colour boundaries, so `user=ada` highlights across key/`=`/value. Status: open.
 - **[hashicorp/raft — PR #743](https://github.com/hashicorp/raft/pull/743)** (Go) — AppendEntries wrongly rejected a matching snapshot-boundary predecessor when its log entry was compacted away; falls back to the snapshot term only at the exact boundary. Status: open.
+- **[Shopify/liquid — PR #2139](https://github.com/Shopify/liquid/pull/2139)** (Ruby) — `offset: continue` after a negative offset resumed from a different item than on shopify.dev; clamped the continuation cursor. Status: open.
+- **[google/googletest — PR #5152](https://github.com/google/googletest/pull/5152)** (C++) — Both premature-exit tests silently returned when `TEST_PREMATURE_EXIT_FILE` was unset, passing under `make test` without verifying anything; they now `GTEST_SKIP` when unset and ctest runs them with the variable set. Status: open.
 
 **[VirtualBrainLab/Pinpoint](https://github.com/VirtualBrainLab/Pinpoint)** — neuroscience probe-planning tools
 - Jackhammer Mode — real-time motor control via Socket.IO API
@@ -58,6 +60,12 @@ Currently: Software Engineering Intern at a Stealth Startup and AI Engineer at B
 - Code quality: modern C#, type safety
 
 *This section is updated as new contributions land — see the pinned repos below for the latest.*
+
+---
+
+### Trading
+
+I have no formal experience in trading — it's an interest, not a credential. I'm building it in public instead: contributing to open-source trading projects (backtesting engines, exchange clients, market-data and quant libraries) and letting the work speak for itself. Contributions in this area will show up in the section above as they land.
 
 ---
 
