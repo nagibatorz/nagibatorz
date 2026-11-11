@@ -1,1 +1,103 @@
-IyBIaSwgSSdtIFpob3J6aCBaZWxlbmtvdiDwn5GLCgojIyMgU29mdHdhcmUgRW5naW5lZXIgwrcgQ1MgQCBVVyAoQi5TLiAyMDI04oCTMjAyOCwgR1BBIDMuOCkKIyMjIFJMIGV2YWxzIMK3IERhdGEgLyBBSSBpbmZyYSDCtyBOZXVyb3NjaWVuY2UgdG9vbHMgwrcgUHJpdmFjeSByZXNlYXJjaAoKWyFbTGlua2VkSW5dKGh0dHBzOi8vaW1nLnNoaWVsZHMuaW8vYmFkZ2UvTGlua2VkSW4tMEE2NkMyP3N0eWxlPWZvci10aGUtYmFkZ2UmbG9nbz1saW5rZWRpbiZsb2dvQ29sb3I9d2hpdGUpXShodHRwczovL3d3dy5saW5rZWRpbi5jb20vaW4vemhvcnpoLXplbGVua292KQpbIVtHaXRIdWJdKGh0dHBzOi8vaW1nLnNoaWVsZHMuaW8vYmFkZ2UvR2l0SHViLTE4MTcxNz9zdHlsZT1mb3ItdGhlLWJhZGdlJmxvZ289Z2l0aHViJmxvZ29Db2xvcj13aGl0ZSldKGh0dHBzOi8vZ2l0aHViLmNvbS9uYWdpYmF0b3J6KQpbIVtFbWFpbF0oaHR0cHM6Ly9pbWcuc2hpZWxkcy5pby9iYWRnZS9FbWFpbC1FQTQzMzU/c3R5bGU9Zm9yLXRoZS1iYWRnZSZsb2dvPWdtYWlsJmxvZ29Db2xvcj13aGl0ZSldKG1haWx0bzp6emhvcnpoQGNzLndhc2hpbmd0b24uZWR1KQoKLS0tCgojIyMgQWJvdXQKCkp1bmlvciBhdCB0aGUgVW5pdmVyc2l0eSBvZiBXYXNoaW5ndG9uJ3MgUGF1bCBHLiBBbGxlbiBTY2hvb2wgb2YgQ29tcHV0ZXIgU2NpZW5jZS4gSSBidWlsZCBzeXN0ZW1zIHRoYXQgaGF2ZSB0byBiZSBjb3JyZWN0IHVuZGVyIHJlYWwgbG9hZCDigJQgZGV0ZXJtaW5pc3RpYyBldmFscyBmb3IgZnJvbnRpZXIgbW9kZWxzLCBwcm9kdWN0aW9uIGRhdGEgcGlwZWxpbmVzIGZvciBtaWxsaW9ucyBvZiBzZW5zb3IgcmVhZGluZ3MgYSBkYXksIGFuZCByZWFsLXRpbWUgY29udHJvbCBmb3IgbmV1cm9zY2llbmNlIGhhcmR3YXJlLgoKQ3VycmVudGx5OiBTb2Z0d2FyZSBFbmdpbmVlcmluZyBJbnRlcm4gYXQgYSBTdGVhbHRoIFN0YXJ0dXAgYW5kIEFJIEVuZ2luZWVyIGF0IEJyb29rcyBSdW5uaW5nLCBib3RoIDIwIGhycy93ZWVrIGluIHBhcmFsbGVsLgoKLSDwn4+DICoqQnJvb2tzIFJ1bm5pbmcg4oCUIEFJIEVuZ2luZWVyIChTZXAgMjAyNuKAk1ByZXNlbnQpIC8gQUkgJiBEYXRhIEVuZ2luZWVyaW5nIEludGVybiAoSnVu4oCTU2VwIDIwMjYpOioqIG93biB0aGUgcHJvZHVjdGlvbiBFTFQgcGlwZWxpbmUg4oCUIGF1dG9tYXRlZCBpbmdlc3Rpb24gb2YgbWlsbGlvbnMgb2Ygc2Vuc29yIHJlYWRpbmdzIGRhaWx5IGZyb20gUzMgaW50byBTbm93Zmxha2UsIG5vcm1hbGl6aW5nIGluY29tcGF0aWJsZSBmb3JtYXRzIGludG8gYSBxdWVyeWFibGUgc2NoZW1hIChBaXJmbG93LCBkYnQgdmlhIENvc21vcywgUHlBcnJvdywgU25vd2ZsYWtlKS4gQnVpbHQgYSBzZWxmLXNlcnZlIHBsYXRmb3JtIChSZWFjdCwgQVdTKSBzbyBub24tdGVjaG5pY2FsIHN0YWtlaG9sZGVycyBjYW4gYnVpbGQsIGRlcGxveSwgYW5kIGhvc3QgaW50ZXJuYWwgdG9vbHMgd2l0aG91dCBlbmdpbmVlcmluZyBib3R0bGVuZWNrcy4gRW50cmEgUkJBQyArIEZpcmViYXNlIGZvciBzZWN1cmUsIHBlcm1pc3Npb24tYmFzZWQgYWNjZXNzLgogIC0gU2NhbGVkIGJpb21lY2hhbmljcyBjb2xsZWN0aW9uIGZyb20gMTAtc2Vjb25kIGxhYiBjYXB0dXJlcyB0byBob3VyLWxvbmcgZmllbGQgcmVjb3JkaW5ncyBhY3Jvc3MgMjAwMCsgcnVubmVycyB3b3JsZHdpZGUuCiAgLSBUb29rIG92ZXIgdGhlIGlPUyBhcHAgYWZ0ZXIgc2lsZW50IGRhdGEgbG9zcyBpbiBwcm9kdWN0aW9uIOKAlCByb290LWNhdXNlZCBpdCwgYWRkZWQgc2VsZi1oZWFsaW5nIHJlY292ZXJ5LCBsaWZ0ZWQgc2Vzc2lvbiBkZWxpdmVyeSBmcm9tIDEwJSB0byA5OSUgKFN3aWZ0KS4KICAtIFJlcGxhY2VkIG1hbnVhbCBwZXItdXNlciBwcm92aXNpb25pbmcgKENvZ25pdG8sIFRlc3RGbGlnaHQsIGJhY2tlbmQpIHdpdGggYSBzZWxmLXNlcnZlIHNpZ251cCBmbG93OiAzMCBtaW4gZW5naW5lZXJpbmcgdGltZSBwZXIgcnVubmVyIOKGkiAwLgogIC0gRXN0YWJsaXNoZWQgdGhlIGZpcnN0IHN0cnVjdHVyZWQgdGVzdCBwcm90b2NvbCB3aXRoIHRoZSBSdW4gUmVzZWFyY2ggdGVhbTogMTUrIHByZXZpb3VzbHkgdW5yZXBvcnRlZCBkZWZlY3RzIChTd2lmdCwgWENUZXN0KS4KLSDwn6egICoqU3RlaW5tZXR6IExhYiDigJQgU29mdHdhcmUgRGV2ZWxvcG1lbnQgRW5naW5lZXIgKE5vdiAyMDI14oCTQXVnIDIwMjYpOioqIG1haW50YWluIEVwaHlzIExpbmssIGEgUHl0aG9uIFNvY2tldC5JTyBzZXJ2ZXIgY29ubmVjdGluZyB0cmFqZWN0b3J5LXBsYW5uaW5nIGFuZCBicmFpbi1hdGxhcyB0b29scyB0byBmaXZlIGVsZWN0cm9waHlzaW9sb2d5IG1hbmlwdWxhdG9yIHBsYXRmb3Jtcy4gSW1wbGVtZW50ZWQgamFja2hhbW1lciBtb2RlIOKAlCByZWFsLXRpbWUgbW90b3IgY29udHJvbCB2aWEgdGhlIFNvY2tldC5JTyBBUEksIHdpdGggZXJyb3IgaGFuZGxpbmcgYW5kIHBvc2l0aW9uIHRyYWNraW5nIGZvciBjbG9zZWQtbG9vcCBvcGVyYXRpb24sIHN1Yi1taWxsaXNlY29uZCBsYXRlbmN5LiBNYWRlIGJ1aWxkcyByZXByb2R1Y2libGUgd2l0aCBkZXBlbmRlbmN5IGxvY2tpbmcsIGVudmlyb25tZW50IGlzb2xhdGlvbiwgYW5kIHN0YXRpYyBhbmFseXNpcyBpbiBDSS4KLSDwn5SQICoqVVcgUHJpdmFjeSAmIFNlY3VyaXR5IExhYiDigJQgUmVzZWFyY2ggQXNzaXN0YW50IChTZXAgMjAyNeKAk0F1ZyAyMDI2KToqKiAiV2hhdCBpcyBhIENvb2tpZT8iIOKAlCBCZXN0IFBvc3RlciwgVVcgQlMvTVMgU2hvd2Nhc2UuIEJ1aWx0IGFuIGF1dG9tYXRlZCBwaXBlbGluZSAoUHl0aG9uLCBTZWxlbml1bSkgdGhhdCBkZXRlY3RzIGFuZCBpbnRlcmFjdHMgd2l0aCB3ZWJzaXRlcywgY2FwdHVyaW5nIGJyb3dzZXIgY29va2llIHN0YXRlcyBhY3Jvc3MgY29udHJvbGxlZCBjb25zZW50IGZsb3dzIG9uIGh1bmRyZWRzIG9mIHNpdGVzLCB0aGVuIG5vcm1hbGl6aW5nIGFuZCBjb21wYXJpbmcgY29va2llIG1ldGFkYXRhIHRvIHF1YW50aWZ5IHdoZXJlIHNpdGUgYmVoYXZpb3IgZGl2ZXJnZWQgZnJvbSBzdGF0ZWQgY29uc2VudCAoQWx0YWlyKS4KLSDwn6epICoqT2xsZWV5LmNvbSDigJQgU29mdHdhcmUgRW5naW5lZXIgKEp1bCAyMDI24oCTUHJlc2VudCk6KiogcmVhbC10aW1lIGNvbnRleHQgaW5mcmFzdHJ1Y3R1cmUgZm9yIEFJIGFnZW50cyDigJQgYmFja2VuZCBmb3IgaW5nZXN0aW5nLCBwcm9jZXNzaW5nLCBhbmQgc2VydmluZyBjb250ZXh0dWFsIGRhdGEgdG8gYWdlbnQgd29ya2Zsb3dzIHdpdGggbG93LWxhdGVuY3kgcmV0cmlldmFsIGFuZCBpbmNyZW1lbnRhbCB1cGRhdGVzLiBCdWlsdCBlbmQtdG8tZW5kOiBiYWNrZW5kIHNlcnZpY2VzLCBzdG9yYWdlLCBhZ2VudCBpbnRlZ3JhdGlvbnMsIGRlcGxveW1lbnQuCgotLS0KCiMjIyBUZWNobmljYWwgZGVwdGgg4oCUIHdoZXJlIEkndmUgYWN0dWFsbHkgdXNlZCBpdAoKKipMYW5ndWFnZXM6KiogSmF2YSwgUHl0aG9uLCBUeXBlU2NyaXB0L0phdmFTY3JpcHQsIFN3aWZ0LCBTUUwsIEMvQysrL0MjLCBHbywgS290bGluLCBEYXJ0LCBPQ2FtbCwgUnVieQoKKipEYXRhICYgaW5mcmE6KiogQWlyZmxvdywgZGJ0IChDb3Ntb3MpLCBQeUFycm93LCBTbm93Zmxha2UsIFMzLCBMYW1iZGEsIENvZ25pdG8sIFBvc3RncmVTUUwsIE15U1FMLCBEb2NrZXIsIExpbnV4LCBDSS9DRCDigJQgcHJvZHVjdGlvbiBFTFQgYXQgQnJvb2tzLCBtaWxsaW9ucyBvZiByb3dzL2RheSwgc2NoZW1hIG5vcm1hbGl6YXRpb24gYWNyb3NzIGluY29tcGF0aWJsZSBzZW5zb3IgZm9ybWF0cy4KCioqQUkgLyBSTCBldmFsczoqKiBkZXRlcm1pbmlzdGljIGVudmlyb25tZW50IGdlbmVyYXRpb24sIG9yYWNsZSBzb2x2ZXJzLCBwcm9ncmFtbWF0aWMgdmFsaWRhdGlvbiwgY29udGludW91cyByZXdhcmRzLCBleHBsb2l0LXJlc2lzdGFudCB0YXNrIGRlc2lnbiwgbXVsdGktYWdlbnQgb3JjaGVzdHJhdGlvbiAoc3BlYyAvIGltcGxlbWVudCAvIGF1ZGl0IC8gcmV2aWV3IC8gcmVkIHRlYW0pIOKAlCBTdGVhbHRoIFN0YXJ0dXAuCgoqKlN5c3RlbXMgLyByZWFsdGltZToqKiBQeXRob24gU29ja2V0LklPIHNlcnZlcnMsIHN1Yi1tcyBtb3RvciBjb250cm9sLCBjbG9zZWQtbG9vcCBwb3NpdGlvbiB0cmFja2luZywgZml2ZSBoYXJkd2FyZSBwbGF0Zm9ybXMg4oCUIEVwaHlzIExpbmsgLyBTdGVpbm1ldHogTGFiLgoKKipXZWIgLyBtb2JpbGU6KiogUmVhY3QsIE5leHQuanMsIE5vZGUuanMsIFNwcmluZyBCb290LCBGbHV0dGVyLCBTd2lmdC9YQ1Rlc3QsIEZpcmViYXNlLCBFbnRyYSBSQkFDIOKAlCBzZWxmLXNlcnZlIGludGVybmFsLXRvb2xzIHBsYXRmb3JtLCBpT1MgYmlvbWVjaGFuaWNzIGFwcCwgR3Jvbm8sIFNFTlMuCgoqKkNvdXJzZXdvcms6KiogRGF0YSBTdHJ1Y3R1cmVzICYgQWxnb3JpdGhtcywgTWFjaGluZSBMZWFybmluZywgRGVlcCBMZWFybmluZywgTkxQLCBPcGVyYXRpbmcgU3lzdGVtcywgRGlzdHJpYnV0ZWQgU3lzdGVtcywgTGluZWFyIEFsZ2VicmEsIEZ1bmN0aW9uYWwgUHJvZ3JhbW1pbmcsIFByb2dyYW1taW5nIExhbmd1YWdlcywgT09QCgoqKlByYWN0aWNlOioqIFtuYWdpYmF0b3J6L0RTQV0oaHR0cHM6Ly9naXRodWIuY29tL25hZ2liYXRvcnovRFNBKSDigJQgOTcrIExlZXRDb2RlLXN0eWxlIHByb2JsZW1zIGluIEphdmEsIGVhY2ggd2l0aCBSRUFETUUgKyBzb2x1dGlvbiwgZm9jdXNlZCBvbiB1bmRlcnN0YW5kaW5nIHdoeSBhbiBhbGdvcml0aG0gd29ya3MsIG5vdCBqdXN0IGdldHRpbmcgaXQgdG8gcGFzcy4KCi0tLQoKIyMjIE9wZW4gU291cmNlIENvbnRyaWJ1dGlvbnMKCi0gKipbVUtHb3Zlcm5tZW50QkVJUy9pbnNwZWN0X2FpIOKAlCBQUiAjNjM2NF0oaHR0cHM6Ly9naXRodWIuY29tL1VLR292ZXJubWVudEJFSVMvaW5zcGVjdF9haS9wdWxsLzYzNjQpKiogKFB5dGhvbikg4oCUIFRvZ2V0aGVyIGJhdGNoIEFQSSBmYWlsZWQgb24gdG9nZXRoZXIgU0RLIDMueDogdGhlIFNESyBidWlsZHMgcGF0aHMgYWxyZWFkeSBpbmNsdWRpbmcgYC92MWAsIHNvIHRoZSBiYXNlIFVSTCBwcm9kdWNlZCBgLi4uL3YxL3YxL2ZpbGVzYC4gU3RyaXBwZWQgb25lIHRyYWlsaW5nIGAvdjFgIG9uIDMueCBvbmx5LCBpbiBib3RoIGJhdGNoIGNsaWVudHMuIFN0YXR1czogb3Blbi4KLSAqKlthdXRob3JqYXBwcy96ZXJvY29kZSDigJQgUFIgIzgxM10oaHR0cHM6Ly9naXRodWIuY29tL2F1dGhvcmphcHBzL3plcm9jb2RlL3B1bGwvODEzKSoqIChKYXZhKSDigJQgQWRkZWQgYSBgRGVsYXlFeGVjdXRvcmAgd2l0aCBhIGBERUxBWWAgbWV0aG9kIGZvciBjb25maWd1cmFibGUgbWlsbGlzZWNvbmQgd2FpdHMsIHVzYWJsZSBhcyBgdXRpbDovL0RlbGF5RXhlY3V0b3JgLiBTdGF0dXM6IG9wZW4uCi0gKipbb3h5bm90ZS9veHlub3RlIOKAlCBQUiAjMzYwXShodHRwczovL2dpdGh1Yi5jb20vb3h5bm90ZS9veHlub3RlL3B1bGwvMzYwKSoqIChUeXBlU2NyaXB0KSDigJQgRGVza3RvcCBidWlsZHMgYnVuZGxlIGFsbCA4NDkgc2VsZWN0YWJsZSB0aXRsZSBpY29ucyAofjU0NSBLQikgYnV0IHRoZSBpY29uIGNsaWVudCBidW5kbGUgbGltaXQgd2FzIDI1NiBLQiBmb3IgZXZlcnkgYnVpbGQsIHNvIGBwbnBtIHBhY2thZ2U6ZGVza3RvcGAgZmFpbGVkOyByYWlzZWQgdGhlIGxpbWl0IHRvIDEwMjQgS0IgZm9yIGRlc2t0b3AgYnVpbGRzIG9ubHkuIFN0YXR1czogbWVyZ2VkLgotICoqW2hhc2hpY29ycC9yYWZ0IOKAlCBQUiAjNzQzXShodHRwczovL2dpdGh1Yi5jb20vaGFzaGljb3JwL3JhZnQvcHVsbC83NDMpKiogKEdvKSDigJQgQXBwZW5kRW50cmllcyB3cm9uZ2x5IHJlamVjdGVkIGEgbWF0Y2hpbmcgc25hcHNob3QtYm91bmRhcnkgcHJlZGVjZXNzb3Igd2hlbiBpdHMgbG9nIGVudHJ5IHdhcyBjb21wYWN0ZWQgYXdheTsgZmFsbHMgYmFjayB0byB0aGUgc25hcHNob3QgdGVybSBvbmx5IGF0IHRoZSBleGFjdCBib3VuZGFyeS4gU3RhdHVzOiBvcGVuLgotICoqW1Nob3BpZnkvbGlxdWlkIOKAlCBQUiAjMjEzOV0oaHR0cHM6Ly9naXRodWIuY29tL1Nob3BpZnkvbGlxdWlkL3B1bGwvMjEzOSkqKiAoUnVieSkg4oCUIGBvZmZzZXQ6IGNvbnRpbnVlYCBhZnRlciBhIG5lZ2F0aXZlIG9mZnNldCByZXN1bWVkIGZyb20gYSBkaWZmZXJlbnQgaXRlbSB0aGFuIG9uIHNob3BpZnkuZGV2OyBjbGFtcGVkIHRoZSBjb250aW51YXRpb24gY3Vyc29yLiBTdGF0dXM6IG9wZW4uCi0gKipbZ29vZ2xlL2dvb2dsZXRlc3Qg4oCUIFBSICM1MTUyXShodHRwczovL2dpdGh1Yi5jb20vZ29vZ2xlL2dvb2dsZXRlc3QvcHVsbC81MTUyKSoqIChDKyspIOKAlCBCb3RoIHByZW1hdHVyZS1leGl0IHRlc3RzIHNpbGVudGx5IHJldHVybmVkIHdoZW4gYFRFU1RfUFJFTUFUVVJFX0VYSVRfRklMRWAgd2FzIHVuc2V0LCBwYXNzaW5nIHVuZGVyIGBtYWtlIHRlc3RgIHdpdGhvdXQgdmVyaWZ5aW5nIGFueXRoaW5nOyB0aGV5IG5vdyBgR1RFU1RfU0tJUGAgd2hlbiB1bnNldCBhbmQgY3Rlc3QgcnVucyB0aGVtIHdpdGggdGhlIHZhcmlhYmxlIHNldC4gU3RhdHVzOiBvcGVuLgoKKipbVmlydHVhbEJyYWluTGFiL1BpbnBvaW50XShodHRwczovL2dpdGh1Yi5jb20vVmlydHVhbEJyYWluTGFiL1BpbnBvaW50KSoqIOKAlCBuZXVyb3NjaWVuY2UgcHJvYmUtcGxhbm5pbmcgdG9vbHMKLSBKYWNraGFtbWVyIE1vZGUg4oCUIHJlYWwtdGltZSBtb3RvciBjb250cm9sIHZpYSBTb2NrZXQuSU8gQVBJCi0gRXh0ZXJuYWwgVHJhY2tpbmcgUGlwZWxpbmUg4oCUIHByb2JlIHBvc2l0aW9uIHRyYWNraW5nCi0gQ29kZSBxdWFsaXR5OiBtb2Rlcm4gQyMsIHR5cGUgc2FmZXR5CgoqVGhpcyBzZWN0aW9uIGlzIHVwZGF0ZWQgYXMgbmV3IGNvbnRyaWJ1dGlvbnMgbGFuZCDigJQgc2VlIHRoZSBwaW5uZWQgcmVwb3MgYmVsb3cgZm9yIHRoZSBsYXRlc3QuKgoKLS0tCgojIyMgVHJhZGluZwoKSSBoYXZlIG5vIGZvcm1hbCBleHBlcmllbmNlIGluIHRyYWRpbmcg4oCUIGl0J3MgYW4gaW50ZXJlc3QsIG5vdCBhIGNyZWRlbnRpYWwuIEknbSBidWlsZGluZyBpdCBpbiBwdWJsaWMgaW5zdGVhZDogY29udHJpYnV0aW5nIHRvIG9wZW4tc291cmNlIHRyYWRpbmcgcHJvamVjdHMgKGJhY2t0ZXN0aW5nIGVuZ2luZXMsIGV4Y2hhbmdlIGNsaWVudHMsIG1hcmtldC1kYXRhIGFuZCBxdWFudCBsaWJyYXJpZXMpIGFuZCBsZXR0aW5nIHRoZSB3b3JrIHNwZWFrIGZvciBpdHNlbGYuIENvbnRyaWJ1dGlvbnMgaW4gdGhpcyBhcmVhIHdpbGwgc2hvdyB1cCBpbiB0aGUgc2VjdGlvbiBhYm92ZSBhcyB0aGV5IGxhbmQuCgotLS0KCiMjIyBGZWF0dXJlZCBQcm9qZWN0cwoKfCBQcm9qZWN0IHwgV2hhdCBpdCBkb2VzLCB0ZWNobmljYWxseSB8IFN0YWNrIHwKfC0tLS0tLS0tLXwtLS0tLS0tLS0tLS0tLS0tLS0tLS0tLS0tLS18LS0tLS0tLXwKfCAqKltPcHRpdmlzZS5kZXZdKGh0dHBzOi8vb3B0aXZpc2UuZGV2KSoqIHwgMXN0IFBsYWNlIEhhY2thdGhvbiDigJQgQUktZHJpdmVuIEEvQiB0ZXN0aW5nIHBsYXRmb3JtIHdpdGggcmVhbC10aW1lIGFuYWx5dGljcyB8IFJlYWN0IMK3IEFXUyBMYW1iZGEgwrcgVGVuc29yRmxvdyB8CnwgKipWaXN1YWxNTCoqIHwgTUwgdmlzdWFsaXphdGlvbiB0b29sIOKAlCA5NiUgYWNjdXJhY3ksIDQwJSBmZXdlciBmYWxzZSBwb3NpdGl2ZXMgfCBKYXZhIMK3IFNwcmluZyBCb290IMK3IFJlYWN0IMK3IFB5dGhvbiB8CnwgKipHcm9ubyoqIHwgUmVkZGl0LXN0eWxlIHNvY2lhbCBwbGF0Zm9ybSB3aXRoIEdQVCBtb2RlcmF0aW9uICYgV2lsc29uLXNjb3JlIHJhbmtpbmcgfCBOZXh0LmpzIMK3IFR5cGVTY3JpcHQgwrcgU2FuaXR5IMK3IE9wZW5BSSB8CnwgKipTRU5TKiogfCBBbmRyb2lkIGRpZ2l0YWwgd2VsbG5lc3MgYXBwIOKAlCAyMDArIGJldGEgdXNlcnMsIDMrIGhycyBzYXZlZCBkYWlseSB8IEtvdGxpbiDCtyBKZXRwYWNrIENvbXBvc2UgfAoKLS0tCgojIyMgR2l0SHViIFN0YXRzCgo8ZGl2IGFsaWduPSJjZW50ZXIiPgogIDxpbWcgaGVpZ2h0PSIxODBlbSIgc3JjPSJodHRwczovL2dpdGh1Yi1yZWFkbWUtc3RhdHMudmVyY2VsLmFwcC9hcGk/dXNlcm5hbWU9bmFnaWJhdG9yeiZzaG93X2ljb25zPXRydWUmdGhlbWU9dG9reW9uaWdodCZoaWRlX2JvcmRlcj10cnVlJmNvdW50X3ByaXZhdGU9dHJ1ZSZpbmNsdWRlX2FsbF9jb21taXRzPXRydWUiIC8+CiAgPGltZyBoZWlnaHQ9IjE4MGVtIiBzcmM9Imh0dHBzOi8vZ2l0aHViLXJlYWRtZS1zdGF0cy52ZXJjZWwuYXBwL2FwaS90b3AtbGFuZ3MvP3VzZXJuYW1lPW5hZ2liYXRvcnombGF5b3V0PWNvbXBhY3QmdGhlbWU9dG9reW9uaWdodCZoaWRlX2JvcmRlcj10cnVlJmxhbmdzX2NvdW50PTgiIC8+CjwvZGl2PgoKLS0tCgojIyMgQWNoaWV2ZW1lbnRzCgotIEJlc3QgUG9zdGVyLCBVVyBCUy9NUyBTaG93Y2FzZSDigJQgIldoYXQgaXMgYSBDb29raWU/IgotIFdhc2hpbmd0b24gU3RhdGUgT3Bwb3J0dW5pdHkgU2Nob2xhciDCtyBCYWxhbmNlZCBNYW4gU2Nob2xhciDCtyBLaW11cmEgU2Nob2xhciDCtyBIZWFydGhzdG9uZSBIb3VzaW5nIEZvdW5kYXRpb24gU2Nob2xhciDCtyBSZW50aG9wIFNjaG9sYXIgwrcgQnJpZGdlNFN0dWRlbnRzIFRvcCBTY2hvbGFyIMK3IFRvbSBIaWNrcyBTY2hvbGFyCi0gMXN0IFBsYWNlIOKAlCBVVyBIYWNrYXRob24gwrcgTU9WRSBGZWxsb3cg4oCUIEhhbmRzaGFrZSBBSSDCtyBWUCDigJQgVVcgU3dpbSBDbHViCgojIyMgTGFuZ3VhZ2VzCgpFbmdsaXNoIMK3IFVrcmFpbmlhbiDCtyBSdXNzaWFuwrcgUG9saXNoIChsZWFybmluZykKCi0tLQoKPiBCdWlsZGluZyBzb2Z0d2FyZSB0aGF0IGFkdmFuY2VzIHNjaWVuY2UsIG9uZSBjb21taXQgYXQgYSB0aW1lLgo=
+# Hi, I'm Zhorzh Zelenkov 👋
+
+### Software Engineer · CS @ UW (B.S. 2024–2028, GPA 3.8)
+### RL evals · Data / AI infra · Neuroscience tools · Privacy research
+
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/zhorzh-zelenkov)
+[![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/nagibatorz)
+[![Email](https://img.shields.io/badge/Email-EA4335?style=for-the-badge&logo=gmail&logoColor=white)](mailto:zzhorzh@cs.washington.edu)
+
+---
+
+### About
+
+Junior at the University of Washington's Paul G. Allen School of Computer Science. I build systems that have to be correct under real load — deterministic evals for frontier models, production data pipelines for millions of sensor readings a day, and real-time control for neuroscience hardware.
+
+Currently: Software Engineering Intern at a Stealth Startup and AI Engineer at Brooks Running, both 20 hrs/week in parallel.
+
+- 🏃 **Brooks Running — AI Engineer (Sep 2026–Present) / AI & Data Engineering Intern (Jun–Sep 2026):** own the production ELT pipeline — automated ingestion of millions of sensor readings daily from S3 into Snowflake, normalizing incompatible formats into a queryable schema (Airflow, dbt via Cosmos, PyArrow, Snowflake). Built a self-serve platform (React, AWS) so non-technical stakeholders can build, deploy, and host internal tools without engineering bottlenecks. Entra RBAC + Firebase for secure, permission-based access.
+  - Scaled biomechanics collection from 10-second lab captures to hour-long field recordings across 2000+ runners worldwide.
+  - Took over the iOS app after silent data loss in production — root-caused it, added self-healing recovery, lifted session delivery from 10% to 99% (Swift).
+  - Replaced manual per-user provisioning (Cognito, TestFlight, backend) with a self-serve signup flow: 30 min engineering time per runner → 0.
+  - Established the first structured test protocol with the Run Research team: 15+ previously unreported defects (Swift, XCTest).
+- 🧠 **Steinmetz Lab — Software Development Engineer (Nov 2025–Aug 2026):** maintain Ephys Link, a Python Socket.IO server connecting trajectory-planning and brain-atlas tools to five electrophysiology manipulator platforms. Implemented jackhammer mode — real-time motor control via the Socket.IO API, with error handling and position tracking for closed-loop operation, sub-millisecond latency. Made builds reproducible with dependency locking, environment isolation, and static analysis in CI.
+- 🔐 **UW Privacy & Security Lab — Research Assistant (Sep 2025–Aug 2026):** "What is a Cookie?" — Best Poster, UW BS/MS Showcase. Built an automated pipeline (Python, Selenium) that detects and interacts with websites, capturing browser cookie states across controlled consent flows on hundreds of sites, then normalizing and comparing cookie metadata to quantify where site behavior diverged from stated consent (Altair).
+- 🧩 **Olleey.com — Software Engineer (Jul 2026–Present):** real-time context infrastructure for AI agents — backend for ingesting, processing, and serving contextual data to agent workflows with low-latency retrieval and incremental updates. Built end-to-end: backend services, storage, agent integrations, deployment.
+
+---
+
+### Technical depth — where I've actually used it
+
+**Languages:** Java, Python, TypeScript/JavaScript, Swift, SQL, C/C++/C#, Go, Kotlin, Dart, OCaml, Ruby
+
+**Data & infra:** Airflow, dbt (Cosmos), PyArrow, Snowflake, S3, Lambda, Cognito, PostgreSQL, MySQL, Docker, Linux, CI/CD — production ELT at Brooks, millions of rows/day, schema normalization across incompatible sensor formats.
+
+**AI / RL evals:** deterministic environment generation, oracle solvers, programmatic validation, continuous rewards, exploit-resistant task design, multi-agent orchestration (spec / implement / audit / review / red team) — Stealth Startup.
+
+**Systems / realtime:** Python Socket.IO servers, sub-ms motor control, closed-loop position tracking, five hardware platforms — Ephys Link / Steinmetz Lab.
+
+**Web / mobile:** React, Next.js, Node.js, Spring Boot, Flutter, Swift/XCTest, Firebase, Entra RBAC — self-serve internal-tools platform, iOS biomechanics app, Grono, SENS.
+
+**Coursework:** Data Structures & Algorithms, Machine Learning, Deep Learning, NLP, Operating Systems, Distributed Systems, Linear Algebra, Functional Programming, Programming Languages, OOP
+
+**Practice:** [nagibatorz/DSA](https://github.com/nagibatorz/DSA) — 97+ LeetCode-style problems in Java, each with README + solution, focused on understanding why an algorithm works, not just getting it to pass.
+
+---
+
+### Open Source Contributions
+
+- **[UKGovernmentBEIS/inspect_ai — PR #6364](https://github.com/UKGovernmentBEIS/inspect_ai/pull/6364)** (Python) — Together batch API failed on together SDK 3.x: the SDK builds paths already including `/v1`, so the base URL produced `.../v1/v1/files`. Stripped one trailing `/v1` on 3.x only, in both batch clients. Status: open.
+- **[authorjapps/zerocode — PR #813](https://github.com/authorjapps/zerocode/pull/813)** (Java) — Added a `DelayExecutor` with a `DELAY` method for configurable millisecond waits, usable as `util://DelayExecutor`. Status: open.
+- **[oxynote/oxynote — PR #360](https://github.com/oxynote/oxynote/pull/360)** (TypeScript) — Desktop builds bundle all 849 selectable title icons (~545 KB) but the icon client bundle limit was 256 KB for every build, so `pnpm package:desktop` failed; raised the limit to 1024 KB for desktop builds only. Status: merged.
+- **[hashicorp/raft — PR #743](https://github.com/hashicorp/raft/pull/743)** (Go) — AppendEntries wrongly rejected a matching snapshot-boundary predecessor when its log entry was compacted away; falls back to the snapshot term only at the exact boundary. Status: open.
+- **[Shopify/liquid — PR #2139](https://github.com/Shopify/liquid/pull/2139)** (Ruby) — `offset: continue` after a negative offset resumed from a different item than on shopify.dev; clamped the continuation cursor. Status: open.
+- **[google/googletest — PR #5152](https://github.com/google/googletest/pull/5152)** (C++) — Both premature-exit tests silently returned when `TEST_PREMATURE_EXIT_FILE` was unset, passing under `make test` without verifying anything; they now `GTEST_SKIP` when unset and ctest runs them with the variable set. Status: open.
+
+**[VirtualBrainLab/Pinpoint](https://github.com/VirtualBrainLab/Pinpoint)** — neuroscience probe-planning tools
+- Jackhammer Mode — real-time motor control via Socket.IO API
+- External Tracking Pipeline — probe position tracking
+- Code quality: modern C#, type safety
+
+*This section is updated as new contributions land — see the pinned repos below for the latest.*
+
+---
+
+### Trading
+
+I have no formal experience in trading — it's an interest, not a credential. I'm building it in public instead: contributing to open-source trading projects (backtesting engines, exchange clients, market-data and quant libraries) and letting the work speak for itself. Contributions in this area will show up in the section above as they land.
+
+---
+
+### Featured Projects
+
+| Project | What it does, technically | Stack |
+|---------|---------------------------|-------|
+| **[Optivise.dev](https://optivise.dev)** | 1st Place Hackathon — AI-driven A/B testing platform with real-time analytics | React · AWS Lambda · TensorFlow |
+| **VisualML** | ML visualization tool — 96% accuracy, 40% fewer false positives | Java · Spring Boot · React · Python |
+| **Grono** | Reddit-style social platform with GPT moderation & Wilson-score ranking | Next.js · TypeScript · Sanity · OpenAI |
+| **SENS** | Android digital wellness app — 200+ beta users, 3+ hrs saved daily | Kotlin · Jetpack Compose |
+
+---
+
+### GitHub Stats
+
+<div align="center">
+  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=nagibatorz&show_icons=true&theme=tokyonight&hide_border=true&count_private=true&include_all_commits=true" />
+  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=nagibatorz&layout=compact&theme=tokyonight&hide_border=true&langs_count=8" />
+</div>
+
+---
+
+### Achievements
+
+- Best Poster, UW BS/MS Showcase — "What is a Cookie?"
+- Washington State Opportunity Scholar · Balanced Man Scholar · Kimura Scholar · Hearthstone Housing Foundation Scholar · Renthop Scholar · Bridge4Students Top Scholar · Tom Hicks Scholar
+- 1st Place — UW Hackathon · MOVE Fellow — Handshake AI · VP — UW Swim Club
+
+### Languages
+
+English · Ukrainian · Russian· Polish (learning)
+
+---
+
+> Building software that advances science, one commit at a time.
