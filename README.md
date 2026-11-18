@@ -52,6 +52,7 @@ Currently: Software Engineering Intern at a Stealth Startup and AI Engineer at B
 - **[hashicorp/raft — PR #743](https://github.com/hashicorp/raft/pull/743)** (Go) — AppendEntries wrongly rejected a matching snapshot-boundary predecessor when its log entry was compacted away; falls back to the snapshot term only at the exact boundary. Status: open.
 - **[Shopify/liquid — PR #2139](https://github.com/Shopify/liquid/pull/2139)** (Ruby) — `offset: continue` after a negative offset resumed from a different item than on shopify.dev; clamped the continuation cursor. Status: open.
 - **[google/googletest — PR #5152](https://github.com/google/googletest/pull/5152)** (C++) — Both premature-exit tests silently returned when `TEST_PREMATURE_EXIT_FILE` was unset, passing under `make test` without verifying anything; they now `GTEST_SKIP` when unset and ctest runs them with the variable set. Status: open.
+- **[ta-lib/ta-lib — PR #603](https://github.com/ta-lib/ta-lib/pull/603)** (Python) — `quiet.py`'s `stop_group` raised PermissionError when killpg hit a process group whose members had already exited on macOS (EPERM, not ESRCH); treats EPERM like ESRCH at both killpg sites. Status: merged.
 
 **[VirtualBrainLab/Pinpoint](https://github.com/VirtualBrainLab/Pinpoint)** — neuroscience probe-planning tools
 - Jackhammer Mode — real-time motor control via Socket.IO API
